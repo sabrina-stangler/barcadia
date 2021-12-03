@@ -3,7 +3,9 @@
   Barcadia Starter
 </h1>
 
-Barcadia is a GatsbyJS starter theme that uses Contentful for content management. It includes the main configuration files found in Gatsby.
+~~Barcadia is a GatsbyJS starter theme that uses Contentful for content management. It includes the main configuration files found in Gatsby.~~
+
+Barcadia is a GatsbyJS starter theme that I've forked, because we want the site to read from .mdx files instead of Contentful. This will be used for a free workshop we're running at the Milwaukee School of Engineering on Dec 11, 2021 throught the MSOE Society of Software Engineers.
 
 ## Getting started
 
